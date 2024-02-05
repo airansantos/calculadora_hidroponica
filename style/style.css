@@ -1,6 +1,9 @@
 *{
     font-family: sans-serif, Arial, Helvetica;
 }
+body{
+    background-color: #fff;
+}
 #calcular{
     cursor: pointer;
     box-shadow: 0px 3px 3px black;
